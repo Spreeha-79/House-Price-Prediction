@@ -1,5 +1,11 @@
 # House Price Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Project Overview
 This project predicts house prices using machine learning techniques. The dataset contains information such as area, bedrooms, bathrooms, parking spaces, furnishing status, and other property features.
 
