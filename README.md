@@ -22,6 +22,14 @@ This project predicts house prices using machine learning techniques. The datase
 - Checked for duplicates
 - One-Hot Encoding for categorical features
 
+## Feature Importance
+
+![Feature Importance](charts/feature_importance.png)
+
+## Actual vs Predicted Prices
+
+![Actual vs Predicted](charts/actual_vs_predicted.png)
+
 ## Models Used
 ### Linear Regression
 - MAE: 970,043
